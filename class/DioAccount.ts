@@ -4,7 +4,7 @@ export abstract class DioAccount {
   balance: number = 0
   status: boolean = true
   saldo:number = 0
-  private deposito:number = 0
+  deposito:number = 0
   private saque:number = 0
   emprestimo: number = 0
 
